@@ -1,0 +1,19 @@
+# QA screenshots and local test scripts stay out of the published site
+check*.png
+check2*.png
+check3*.png
+check4*.png
+check5*.png
+check6*.png
+final-*.png
+preview*.png
+catalog-*.png
+demo-*.png
+audit-*.png
+ref-*.png
+debug-*.png
+*.py
+*.zip
+*.exe
+qa-catalog-report.json
+catalog-report.json
